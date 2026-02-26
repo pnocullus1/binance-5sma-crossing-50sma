@@ -1,0 +1,6 @@
+requests
+pandas
+python-telegram-bot
+aiohttp
+python-telegram-bot==20.7
+pandas
